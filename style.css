@@ -1,0 +1,55 @@
+header{
+    width: 200px; /* Adjust the width as needed */
+    position: relative;
+    text-align: center;
+    left: 500px;
+    font-family: monospace;
+    background-color: #3498db; /* Replace with your desired color code */
+    color: #fff; /* Optional: Set text color to white for better contrast */
+    padding: 20px;
+    text-align: center;
+}
+ #movie {
+    width: 250px; /* Adjust the width as needed */
+    height: 25px;
+    font-family: monospace;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px; 
+    position: relative;
+    border-radius: 10px;
+    left: 460px;
+
+}
+
+.search-button{
+    width: 80px;
+    height: 28px;
+    margin-bottom: 5px;
+    margin-left: 3px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+    position: relative;
+    left: 470px;
+
+}
+#result {
+    width: 250px; /* Adjust the width as needed */
+    height: 200px;
+    font-family: monospace;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px; 
+    position: relative;
+    border-radius: 10px;
+    left: 460px;
+}
+#poster{ 
+    position: relative;
+    left: 450px;
+    
+}
+
+
